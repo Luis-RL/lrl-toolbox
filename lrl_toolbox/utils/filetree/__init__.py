@@ -1,1 +1,1 @@
-from local_file_tree import LocalFileTree
+from lrl_toolbox.utils.filetree.local_filetree import LocalFileTree, LocalFileTreeConfig
